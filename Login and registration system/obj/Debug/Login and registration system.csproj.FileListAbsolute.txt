@@ -1,0 +1,12 @@
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\bin\Debug\Login and registration system.exe.config
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\bin\Debug\Login and registration system.exe
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\bin\Debug\Login and registration system.pdb
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login and registration system.csproj.AssemblyReference.cache
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login_and_registration_system.frmRegister.resources
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login_and_registration_system.Properties.Resources.resources
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login and registration system.csproj.GenerateResource.cache
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login and registration system.csproj.CoreCompileInputs.cache
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login and registration system.exe
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login and registration system.pdb
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login_and_registration_system.dashboard.resources
+C:\Users\dell r\source\repos\login and Registration System\Login and registration system\obj\Debug\Login_and_registration_system.LoginInfo.resources
